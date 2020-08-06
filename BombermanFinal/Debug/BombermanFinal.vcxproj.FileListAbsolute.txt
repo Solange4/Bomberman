@@ -1,0 +1,8 @@
+C:\Users\Alejandra\source\repos\BombermanFinal\BombermanFinal\Debug\BombermanFinal.vcxprojAssemblyReference.cache
+C:\Users\Alejandra\source\repos\BombermanFinal\BombermanFinal\Debug\BombermanFinal.MenuPrincipal.resources
+C:\Users\Alejandra\source\repos\BombermanFinal\BombermanFinal\Debug\BombermanFinal.vcxproj.GenerateResource.cache
+C:\Users\Alejandra\source\repos\BombermanFinal\BombermanFinal\Debug\BombermanFinal.Juego.resources
+C:\Users\Alejandra\Documents\III semestre\arquitectura\BombermanFinal\BombermanFinal\Debug\BombermanFinal.vcxprojAssemblyReference.cache
+C:\Users\Alejandra\Documents\III semestre\arquitectura\BombermanFinal\BombermanFinal\Debug\BombermanFinal.Juego.resources
+C:\Users\Alejandra\Documents\III semestre\arquitectura\BombermanFinal\BombermanFinal\Debug\BombermanFinal.MenuPrincipal.resources
+C:\Users\Alejandra\Documents\III semestre\arquitectura\BombermanFinal\BombermanFinal\Debug\BombermanFinal.vcxproj.GenerateResource.cache

@@ -1,0 +1,20 @@
+﻿  Bomba.cpp
+C:\Users\Alejandra\Documents\III semestre\arquitectura\BombermanFinal\BombermanFinal\Bomba.cpp(24,99): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Alejandra\Documents\III semestre\arquitectura\BombermanFinal\BombermanFinal\Bomba.cpp(24,87): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  Controladora.cpp
+  Enemigo.cpp
+  Escenario.cpp
+C:\Users\Alejandra\Documents\III semestre\arquitectura\BombermanFinal\BombermanFinal\Escenario.cpp(17,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Alejandra\Documents\III semestre\arquitectura\BombermanFinal\BombermanFinal\Escenario.cpp(20,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Alejandra\Documents\III semestre\arquitectura\BombermanFinal\BombermanFinal\Escenario.cpp(101,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Alejandra\Documents\III semestre\arquitectura\BombermanFinal\BombermanFinal\Escenario.cpp(104,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Alejandra\Documents\III semestre\arquitectura\BombermanFinal\BombermanFinal\Escenario.cpp(213,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Alejandra\Documents\III semestre\arquitectura\BombermanFinal\BombermanFinal\Escenario.cpp(222,20): warning C4018: '<': no coinciden signed/unsigned
+  Juego.cpp
+  Jugador.cpp
+  Mejora.cpp
+  MenuPrincipal.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generando código...
+  Bomba.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  BombermanFinal.vcxproj -> C:\Users\Alejandra\Documents\III semestre\arquitectura\BombermanFinal\Debug\BombermanFinal.exe
