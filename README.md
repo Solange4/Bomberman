@@ -1,2 +1,2 @@
-# Arquitectura
+# Video Juego Bomberman
  
